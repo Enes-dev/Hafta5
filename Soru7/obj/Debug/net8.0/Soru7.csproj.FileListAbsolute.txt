@@ -1,0 +1,14 @@
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\bin\Debug\net8.0\Soru7.exe
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\bin\Debug\net8.0\Soru7.deps.json
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\bin\Debug\net8.0\Soru7.runtimeconfig.json
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\bin\Debug\net8.0\Soru7.dll
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\bin\Debug\net8.0\Soru7.pdb
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\obj\Debug\net8.0\Soru7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\obj\Debug\net8.0\Soru7.AssemblyInfoInputs.cache
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\obj\Debug\net8.0\Soru7.AssemblyInfo.cs
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\obj\Debug\net8.0\Soru7.csproj.CoreCompileInputs.cache
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\obj\Debug\net8.0\Soru7.dll
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\obj\Debug\net8.0\refint\Soru7.dll
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\obj\Debug\net8.0\Soru7.pdb
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\obj\Debug\net8.0\Soru7.genruntimeconfig.cache
+C:\Users\ENES PC\Desktop\Hafta-5\Soru7\obj\Debug\net8.0\ref\Soru7.dll
